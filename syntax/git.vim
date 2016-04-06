@@ -8,7 +8,7 @@ if exists("b:current_syntax")
 endif
 
 syn case match
-syn sync minlines=50
+syn sync minlines=71
 
 syn include @gitDiff syntax/diff.vim
 
